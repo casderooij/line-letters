@@ -1,0 +1,23 @@
+{
+  "name": "line-letters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line-letters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casderooij/line-letters.git"
+  },
+  "keywords": [],
+  "author": "Cas de Rooij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casderooij/line-letters/issues"
+  },
+  "homepage": "https://github.com/casderooij/line-letters#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.1"
+  }
+}
